@@ -1,5 +1,7 @@
 # Clean Room Bot
 
+Try the live bot: [@TheSanitizerBot](https://t.me/TheSanitizerBot)
+
 A Telegram bot that removes tracking data from things you share:
 
 - **URLs** — strips all tracking query parameters (UTM, fbclid, gclid, and dozens more)
